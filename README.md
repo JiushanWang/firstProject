@@ -3,7 +3,7 @@
 
 安装方法：
 
-1、点击文件 “backgroundManage.rar” 跳转至该文件界面
+1、点击文件 “backgroundManage.rar” 跳转至该文件界面 <br>
 2、在该文件界面下载文件，大小为65MB左右，请核实
 3、将下载完成的 backgroundManage.rar 文件解压
 4、将解压好的文件拖入 VScode 中
